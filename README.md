@@ -38,3 +38,43 @@ go to -> https://github.com/settings/tokens
 1. choose a repo name
 2. press on .gitignore and choose your language
 3. press on create repository
+
+---
+
+## clone project with https 
+1. press on code -> https
+2. copy the link
+3. open the cmd
+4. go to desktop
+```
+cd c:\Users\pc name\Desktop
+```
+run the command
+```
+git clone your https link
+```
+now you can see the folder in desktop
+
+open the folder -> open the readme file with text editor
+
+make a change in the file and create new text file
+
+to see the status run
+```
+git status
+```
+run
+```
+git add .
+```
+run to see new status
+```
+git status
+```
+run
+```
+git commit -m "first change"
+```
+```
+git push
+```
