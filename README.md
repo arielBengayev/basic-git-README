@@ -184,3 +184,26 @@ now you can see the changes on github
 4. created a new commit that revert the bad commit
 5. press on the green arrow (push)
 6. go to github repo to see that now you dont have the bad commit
+
+---
+
+## compare changes with local
+1. press on git icom in the left side
+2. press with the right button on the commit that you want to compare
+3. choose compare with local
+4. in the new window (changes) choose the file you want to compare
+5. now you can compare the changes with the current file
+
+---
+
+## compare with git history
+1. go to file you want to compare
+2. in the file press on the right button
+3. choose git -> show history
+
+---
+
+## compare with branch
+1. go to file you want to compare
+2. in the file press on the right button
+3. choose git -> compare with branch -> choose the branch you want to compare with
