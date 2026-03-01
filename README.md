@@ -121,3 +121,34 @@ now you can see the changes on github
 
 ---
 
+## creat branchs 
+1. in your project repo press on main/master
+2. creat new branchs b1 - task1
+3. press on branch name and go to main/master
+4. creat another branch b2 - task2
+5. go to intellij, press on the blue arrow and choose Rebase
+6. press on main in the right side -> choose b1 -> checkout
+7. now you on branch b1
+
+---
+
+## commit and push from branch
+1. make a change on branch b1
+2. commit and push the changes
+3. now you can see the changes on branch b1 only
+
+---
+
+## merge into main with pull request
+1. go to main repo page (git-demo)
+2. press on pull requests -> new pull request
+3. in compare choose branch b1
+4. press on create pull request
+5. in conversation press merge pull request -> confirm merge
+6. now you can see the changes in branch main but not in intellij
+7. go to intellij and press on the blue arrow
+8. now you can see on intellij
+
+---
+
+
