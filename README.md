@@ -151,4 +151,21 @@ now you can see the changes on github
 
 ---
 
+## resolve conflict
+1. make a change on branch b2
+2. commit and push the changes
+3. press on compare & pull request
+4. cant merge
+5. go to intellij -> branch main -> and press on the blue arrow
+6. go back to branch b2
+7. press on main -> branch main -> merge main into b2 -> merge
+8. now you can see the conflict
+9. choose "hello from branch 2" with the arrows
+10. change to "hello from branch 2 considering branch 1"
+11. press the "X" in "hello from branch 1" and press apply
+12. press on the graan arrow (push)
+13. go to github repo -> compare & pull request -> create pull request -> merge pull request -> confirm merge
 
+---
+
+## revert commit
