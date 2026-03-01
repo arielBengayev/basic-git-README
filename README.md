@@ -168,4 +168,19 @@ now you can see the changes on github
 
 ---
 
-## revert commit
+## adding a bad commit
+1. go to intellij -> branch main
+2. press on the blue arrow
+3. add a bad commit in project
+4. commit and push the changes
+5. go to github repo to see the bad commit
+
+ ---
+
+ ## revert commit
+1. press on git in intellij in the left side
+2. press with the right button on the bad commit
+3. choose revert commit
+4. created a new commit that revert the bad commit
+5. press on the green arrow (push)
+6. go to github repo to see that now you dont have the bad commit
