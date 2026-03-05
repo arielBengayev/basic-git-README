@@ -60,7 +60,11 @@ open the folder -> open the readme file with text editor
 
 make a change in the file and create new text file
 
-to see the status run
+to see the status go to your project folder
+```
+cd folder name
+```
+run
 ```
 git status
 ```
