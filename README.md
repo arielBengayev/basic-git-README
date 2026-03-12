@@ -121,7 +121,7 @@ now you can see the folder in desktop
 6. press on commit in the left side
 7. enter -> commit from intellij and press on commit
 8. press on the green arrow for push to github
-now you can see the changes on github
+9. now you can see the changes on github
 
 ---
 
